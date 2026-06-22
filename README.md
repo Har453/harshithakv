@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Harshitha K V 👋</h1>
 <p align="center">
   Electronics & Communication Engineering Student at BMSIT&M &nbsp;|&nbsp; 
-  IEEE-funded Researcher &nbsp;|&nbsp; Embedded Systems & IoT Builder
+  Embedded Systems &nbsp;|&nbsp; IoT &nbsp;|&nbsp; Prototyping
 </p>
 
 <p align="center">
