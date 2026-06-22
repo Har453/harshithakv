@@ -5,8 +5,15 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/harshitha-k-v-7061602b8/">LinkedIn</a> •
-  <a href="mailto:harshithakv299@gmail.com">Email</a> •
+  <a href="https://www.linkedin.com/in/harshitha-k-v-7061602b8/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/Har453">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:harshithakv299@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -47,7 +54,6 @@ embedded systems that go beyond the lab and into the real world.
 | 🔬 Ultrasonic Spray Pyrolysis Machine | ✅ Complete | Low-cost thin-film deposition system |
 | 🐟 Real-Time Aquaponics Monitoring with Gamma-Corrected Video Streaming and Remote Management | 🔄 Yet to be indexed | — |
 | 📻 Campus Radio System | ✅ Published | IEEE COMSIGPRO 2024 paper |
-| 💣 Acoustic Landmine Detector | 🟡 In Progress | TDOA localisation, LoRa telemetry, Streamlit dashboard |
 
 ---
 
